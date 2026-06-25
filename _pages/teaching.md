@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistantship
 
-### Division of Biostatistics and Bioinformatics, Pennsylvania State University
+
+## Pennsylvania State University
 
 - **PHS 523: Multivariate Analysis**  
   Fall 2020, online  
