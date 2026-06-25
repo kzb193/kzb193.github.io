@@ -5,11 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+## Teaching Assistantship
 
 ### Division of Biostatistics and Bioinformatics, Pennsylvania State University
-
-**Teaching Assistant for graduate-level courses**
 
 - **PHS 523: Multivariate Analysis**  
   Fall 2020, online  
