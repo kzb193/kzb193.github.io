@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching Assistantship"
 permalink: /teaching/
 author_profile: true
 ---
