@@ -3,10 +3,11 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 
-## Methodological Publications
+## Methodological 
 
 1. **Banerjee, K.**, Langefeld, R., Keller, E. T., & Zhou, X. (2026)  
    **SPICE: A Robust Computational Framework for Identifying Copy Number Variations in Spatial Transcriptomics.**  
@@ -15,7 +16,7 @@ author_profile: true
 2. **Banerjee, K.**, Chen, J., & Zhan, X. (2022).  
    **Adaptive and powerful microbiome multivariate association analysis via feature selection.**  
    *NAR Genomics and Bioinformatics*, 4(1), lqab120. 
-   *An earlier version of this work won the JSM 2021 Paper Award from the Biometrics Section of the American Statistical Association and the Best Student Paper Award in Applied Statistics at the IISA 2021 Conference.*
+   *An earlier version of this work won the JSM 2021 Paper Award from the Biometrics Section of the American Statistical Association and the Best Student Paper Award in Applied Statistics at the International Indian Statistical Association (IISA) 2021 Conference.*
 
 3. Zhan, X., **Banerjee, K.**, & Chen, J. (2021).  
    **Variant-Set Association Test for Generalized Linear Mixed Model.**  
@@ -25,7 +26,7 @@ author_profile: true
    **An adaptive multivariate two-sample test with application to microbiome differential abundance analysis.**  
    *Frontiers in Genetics*, 10, 350. 
 
-## Collaborative Biomedical Publications
+## Collaborative 
 
 ### Microbiome and Dermatology
 
@@ -45,7 +46,7 @@ author_profile: true
    **Loss of Skin Microbial Diversity and Alteration of Bacterial Metabolic Function in Hidradenitis Suppurativa.**  
    *Journal of Investigative Dermatology*, 140(3), 716–720. 
 
-### Cancer Biology, Ophthalmology, Surgery, and Statistical Genetics
+### Cancer Biology, Ophthalmology, Surgery, and Genetics
 
 1. Olson, A. W., Li, J., Li, X. Y., King, L., **Banerjee, K.**, McCoy, A. J., ... & Weiss, S. J. (2026).  
    **Amoeboid-Mesenchymal Transition and the Proteolytic Control of Cancer Invasion Plasticity.**  
@@ -72,9 +73,7 @@ author_profile: true
    *The Plant Journal*, 99(4), 784–795. 
    
 
-## Abstracts and Commentary
-
-### Abstracts
+## Abstracts 
 
 1. Gong, H., The, S., **Banerjee, K.**, Robinson, T., Monda, S., Salami, S. S., Keller, E. T., & May, A. (2026).  
    **Abstract A005: Biologic insights from spatial analysis of sarcomatoid renal cell carcinoma metastasis to inform therapeutic strategies.**  
@@ -88,8 +87,8 @@ author_profile: true
    **Patients With Prior Myocardial Infarction or Prior Percutaneous Coronary Intervention Have Increased Perioperative Mortality and Adverse Cardiac Events Following Bariatric Surgery.**  
    *Circulation*, 140(Suppl 1), A12242–A12242. 
 
-### Commentary
+## Commentary
 
-- **Banerjee, K.**, & Keller, E. T. (2025).  
+1. **Banerjee, K.**, & Keller, E. T. (2025).  
   **Cellular annotation: the keystone of spatial analysis.**  
   *BioTechniques*. 
