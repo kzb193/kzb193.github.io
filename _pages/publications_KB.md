@@ -5,14 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-For the complete and most up-to-date list of publications, please see my
-[Google Scholar profile](https://scholar.google.com/citations?user=UKZovssAAAAJ&hl=en).
 
 ## Methodological Publications
 
-1. **Banerjee, K.**, Langefeld, R., Keller, E. T., & Zhou, X.  
+1. **Banerjee, K.**, Langefeld, R., Keller, E. T., & Zhou, X. (2026)  
    **SPICE: A Robust Computational Framework for Identifying Copy Number Variations in Spatial Transcriptomics.**  
-   Submitted. [R software]
+   Under review. [R software]
 
 2. **Banerjee, K.**, Chen, J., & Zhan, X. (2022).  
    **Adaptive and powerful microbiome multivariate association analysis via feature selection.**  
@@ -72,14 +70,7 @@ For the complete and most up-to-date list of publications, please see my
 6. Zeng, Y., Zhu, X., Chen, C., **Banerjee, K.**, Sun, L., Yu, W., ... & Wu, R. (2019).  
    **A unified DNA sequence and non-DNA sequence mapping model of complex traits.**  
    *The Plant Journal*, 99(4), 784–795. [Paper]
-
-## Manuscripts in Preparation
-
-1. High definition spatial transcriptomic analysis of breast cancers with BRCA mutations.
-
-2. The ADAM15/c-Src signaling axis promotes the invasive progression of human bladder cancer.
-
-3. Spatial transcriptomic profiling of TRIM29-driven immune evasion in bladder cancer.
+   
 
 ## Abstracts and Commentary
 
