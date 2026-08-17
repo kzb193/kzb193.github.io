@@ -87,18 +87,18 @@ For the complete and most up-to-date list of publications, please see my
 
 1. Gong, H., The, S., **Banerjee, K.**, Robinson, T., Monda, S., Salami, S. S., Keller, E. T., & May, A. (2026).  
    **Abstract A005: Biologic insights from spatial analysis of sarcomatoid renal cell carcinoma metastasis to inform therapeutic strategies.**  
-   *Cancer Research*, 86(5 Supplement 2), A005. [Link]
+   *Cancer Research*, 86(5 Supplement 2), A005. [Link](https://doi.org/10.1158/1538-7445.KIDNEY26-A005)
 
 2. Nolan, Z. T., **Banerjee, K.**, Cong, Z., Gettle, S., Longenecker, A., Zhan, X., ... & Nelson, A. (2021).  
    **Isotretinoin disrupts skin microbiome composition and metabolic function after 20 weeks of therapy.**  
-   *Journal of Investigative Dermatology*, 141(5), S39. [Link]
+   *Journal of Investigative Dermatology*, 141(5), S39. [Link](https://www.jidonline.org/article/S0022-202X(21)00465-6/fulltext)
 
 3. Peterson, B., **Banerjee, K.**, Zhan, X., & Foy, A. (2019).  
    **Patients With Prior Myocardial Infarction or Prior Percutaneous Coronary Intervention Have Increased Perioperative Mortality and Adverse Cardiac Events Following Bariatric Surgery.**  
-   *Circulation*, 140(Suppl 1), A12242–A12242. [Link]
+   *Circulation*, 140(Suppl 1), A12242–A12242. [Link](https://www.ahajournals.org/doi/10.1161/circ.140.suppl_1.12242?doi=10.1161/circ.140.suppl_1.12242)
 
 ### Commentary
 
 - **Banerjee, K.**, & Keller, E. T. (2025).  
   **Cellular annotation: the keystone of spatial analysis.**  
-  *BioTechniques*. [Link]
+  *BioTechniques*. [Link](https://www.biotechniques.com/cell-and-tissue-biology/technique-tales-cellular-annotation-the-keystone-of-spatial-analysis/)
