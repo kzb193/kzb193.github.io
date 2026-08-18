@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: archive
 title: "Teaching Assistantship"
 permalink: /teaching/
 author_profile: true
-classes: wide
 ---
 
 
