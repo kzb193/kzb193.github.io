@@ -1,9 +1,8 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-classes: wide
 ---
 
 
@@ -15,14 +14,15 @@ classes: wide
 
 2. **Banerjee, K.**, Chen, J., & Zhan, X. (2022).  
    **Adaptive and powerful microbiome multivariate association analysis via feature selection.**  
-   *NAR Genomics and Bioinformatics*, 4(1), lqab120. 
+   *NAR Genomics and Bioinformatics*, 4(1), lqab120.
+   
    *An earlier version of this work won the JSM 2021 Paper Award from the Biometrics Section of the American Statistical Association and the Best Student Paper Award in Applied Statistics at the International Indian Statistical Association (IISA) 2021 Conference.*
 
-3. Zhan, X., **Banerjee, K.**, & Chen, J. (2021).  
+4. Zhan, X., **Banerjee, K.**, & Chen, J. (2021).  
    **Variant-Set Association Test for Generalized Linear Mixed Model.**  
    *Genetic Epidemiology*, 45(4), 402–412. 
 
-4. **Banerjee, K.**, Zhao, N., Srinivasan, A., Xue, L., Hicks, S. D., Middleton, F. A., ... & Zhan, X. (2019).  
+5. **Banerjee, K.**, Zhao, N., Srinivasan, A., Xue, L., Hicks, S. D., Middleton, F. A., ... & Zhan, X. (2019).  
    **An adaptive multivariate two-sample test with application to microbiome differential abundance analysis.**  
    *Frontiers in Genetics*, 10, 350. 
 
